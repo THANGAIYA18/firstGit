@@ -13,4 +13,13 @@ private void surya() {
 	System.out.println("3");
 
 }
+private void dhanush() {
+System.out.println("4");
+}
+private void sk() {
+System.out.println("5");
+}
+private void vjs() {
+System.out.println("6");
+}
 }
